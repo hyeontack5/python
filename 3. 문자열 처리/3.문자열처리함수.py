@@ -27,10 +27,10 @@ print(index)
 python.find 와 python.index의 차이를 기억할 것!
 '''
 print(python.find("n"))
-print(python.find("Java")) 
-# 요청한 값이 없으면 -1을 출력하고 뒤이어 프로그램을 실행한다.
-# print(python.index("Java"))
 # 요청한 값이 없으면 error를 출력하고 프로그램을 종료한다.
+# print(python.index("Java"))
+# 요청한 값이 없으면 -1을 출력하고 뒤이어 프로그램을 실행한다.
+print(python.find("Java")) 
 print("hi")
 
 # python이라는 변수에서 n이 몇 번 있는지 알려준다.
