@@ -10,9 +10,3 @@ sentence3 = """
 파이썬은 쉬워요.
 """
 print(sentence3)
-
-sentence3 = '''
-나는 오현택이고,
-파이썬은 쉬워요.
-'''
-print(sentence3)
